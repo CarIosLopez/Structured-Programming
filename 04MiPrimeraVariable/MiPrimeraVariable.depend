@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1652153610 source:c:\users\vasqu\desktop\study\tech\programación estructurada\c programs\miprimeravariable\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1652157326 source:c:\users\vasqu\desktop\study\tech\programación estructurada\c programs\miprimeravariable\reto1.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
