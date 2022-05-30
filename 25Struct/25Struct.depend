@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1653623453 source:c:\users\vasqu\desktop\study\tech\programación estructurada\25struct\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1653623847 source:c:\users\vasqu\desktop\study\tech\programación estructurada\25struct\creararchivo.c
+	<stdio.h>
+	<stdlib.h>
+
