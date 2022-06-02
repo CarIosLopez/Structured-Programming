@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1652326182 source:c:\users\vasqu\desktop\study\tech\programación estructurada\c programs\reto2\main.c
+	<stdio.h>
+	<stdlib.h>
+
