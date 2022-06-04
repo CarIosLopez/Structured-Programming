@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1653258196 source:c:\users\vasqu\desktop\study\tech\programación estructurada\c programs\reto19variableslocalesyglobales\main.c
+	<stdio.h>
+	<stdlib.h>
+

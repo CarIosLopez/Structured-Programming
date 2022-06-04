@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1653513516 source:c:\users\vasqu\desktop\study\tech\programación estructurada\c programs\reto20fibonaccirecursividad\main.c
+	<stdlib.h>
+	<stdio.h>
+
